@@ -34,8 +34,8 @@ function App() {
       <h1>sitiocopia1 (App.Js)</h1>
       <AppForm {...{idActual, setIdActual, fnRead}} />
       {
-        docsBD.map( (p) => 
-        )
+      /*  docsBD.map( (p) => 
+        )*/
       }
     </div>
   );
